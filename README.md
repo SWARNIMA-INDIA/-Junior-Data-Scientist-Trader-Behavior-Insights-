@@ -89,19 +89,9 @@ The project includes:
 - NumPy  
 - Matplotlib  
 - Seaborn  
-- Scikit-learn (optional bonus)
 
 ---
 
 ## 🎯 Conclusion
 Market sentiment plays a crucial role in influencing trader behavior and performance.  
 Understanding these patterns helps in designing better, risk-aware trading strategies.
-
----
-
-## 🚀 How to Run
-
-1. Clone the repository  
-2. Install dependencies:
-   ```bash
-   pip install pandas numpy matplotlib seaborn scikit-learn
